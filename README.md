@@ -1,5 +1,3 @@
-This is a bootstrap boilerplate. 
+Final project for bitiwse mobile friendly class.
 
-The purpose for this is toact as a template to fall back on
-
-Bootstrap V5.1 is used in this template
+This is a travel page based on places I have been in the past 10 years.
