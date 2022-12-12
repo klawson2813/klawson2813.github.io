@@ -1,0 +1,10 @@
+.roadtrip {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.card-image {
+    height: 300px;
+    width: 100%;
+}
